@@ -24,6 +24,9 @@
   <img align="center" alt="MONGODB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="BOOTSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="ANGULAR" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  
+          
 <!--   <iframe align="center" alt="BOOTSTRAP" height="30" width="40" src="https://giphy.com/embed/Q5Ra0QQUpPYdlFmFrj">
   <iframe align="center" src="https://giphy.com/embed/Q5Ra0QQUpPYdlFmFrj" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/party-cat-catjam-jam-Q5Ra0QQUpPYdlFmFrj">via GIPHY</a></p>
     Add this ![ Alt text](https://giphy.com/embed/Q5Ra0QQUpPYdlFmFrj.gif) / ! [](name-of-gif-file. gif)
