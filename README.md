@@ -1,7 +1,7 @@
 ### Oie, tudo bem? Bem-vinde 👋
 
 - 💼 Atualmente trabalho com Front-end.
-- 📖 Estudando React.
+- 📖 Estudando React Native
 - 😄 Pronouns: Ele/Dele.
 
 <!--  STATS AND LANGUAGES  -->
