@@ -1,8 +1,7 @@
-### Oie, tudo bem? Bem-vinde 👋
+### Oie, tudo bem? Bem-vindos e Bem-vindas 👋
 
-- 💼 Atualmente trabalho com Front-end.
+- 💼 Atualmente trabalho com Mobile.
 - 📖 Estudando React Native
-- 😄 Pronouns: Ele/Dele.
 
 <!--  STATS AND LANGUAGES  -->
 <div align="center">
