@@ -1,4 +1,4 @@
-### Oie, tudo bem? Bem-vindos e Bem-vindas 👋
+### Oioi, tudo bem? Bem-vindos e Bem-vindas 👋
 
 - 💼 Desenvolvedor React Native.
 - 📖 Estudante de programação.
