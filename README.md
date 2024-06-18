@@ -1,7 +1,7 @@
 ### Oie, tudo bem? Bem-vindos e Bem-vindas 👋
 
-- 💼 Atualmente trabalho com Mobile.
-- 📖 Estudando React Native
+- 💼 Desenvolvedor React Native.
+- 📖 Estudante de programação.
 
 <!--  STATS AND LANGUAGES  -->
 <div align="center">
