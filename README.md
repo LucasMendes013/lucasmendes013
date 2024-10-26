@@ -2,6 +2,7 @@
 
 - 💼 Desenvolvedor React Native.
 - 📖 Estudante de programação.
+- 📱 Criando meu portifólio.
 
 <!--  IMAGES  -->  
 <div style="display: inline_block"><br>
