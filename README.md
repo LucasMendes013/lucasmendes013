@@ -1,6 +1,8 @@
 ### Oioi, tudo bem? Bem-vindos e Bem-vindas 👋
 
 - 💼 Desenvolvedor React Native.
+- 💼 Desenvolvedor React.
+- 💼 Desenvolvedor Swift.
 - 📖 Estudante de programação.
 - 📱 Criando meu portifólio.
 
